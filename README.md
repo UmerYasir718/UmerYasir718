@@ -4,14 +4,14 @@
 <img align="right" alt="Coding" width="400" src="https://c4.wallpaperflare.com/wallpaper/47/95/705/anonymus-hacker-computer-mask-wallpaper-preview.jpg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=its-umer&label=Profile%20views&color=0e75b6&style=flat" alt="its-umer" /> </p>
 
+- 🌱 I’m currently learning **Software Engineering**
+  
 - 🔭 I’m currently working on **React**
 
-- 🔭 I’m currently working on **Frontend development**
-
-- 🌱 I’m currently learning **Software Engineering**
-
 - 📫 How to reach me **umeryasir718@gmail.com**
-
+  
+- 👨‍💻 All of my projects are available at [https://umeryasir718.github.io/Portfolio/](https://umeryasir718.github.io/Portfolio/)
+              
 - ⚡ Fun fact **I am Cool Guy**
 
 <h3 align="left">Connect with me:</h3>
