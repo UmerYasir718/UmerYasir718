@@ -8,9 +8,9 @@
   
 - 🔭 I’m currently working on **React**
 
-- 📫 How to reach me **umeryasir718@gmail.com**
+- 📫 How to reach me <a href="mailto:umeryasir718@gmail.com/">At Mail</a>
   
-- 👨‍💻 All of my projects are available at <a href="https://umeryasir718.github.io/Portfolio/">Portfolio</a>
+- 👨‍💻 All of my projects are available at <a href="https://umeryasir718.github.io/Portfolio/">My Portfolio</a>
               
 - ⚡ Fun fact **I am Cool Guy**
 
