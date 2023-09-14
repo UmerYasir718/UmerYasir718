@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **umeryasir718@gmail.com**
   
-- 👨‍💻 All of my projects are available at [Portfolio](https://umeryasir718.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available at <a href="https://umeryasir718.github.io/Portfolio/">Portfolio</a>
               
 - ⚡ Fun fact **I am Cool Guy**
 
