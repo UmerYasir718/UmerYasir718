@@ -8,7 +8,7 @@
   
 - 🔭 I’m currently working on **React**
 
-- 📫 How to reach me <a href="mailto:umeryasir718@gmail.com/">At Mail</a>
+- 📫 How to reach me <a href="mailto:umeryasir718@gmail.com/">from Mail</a>
   
 - 👨‍💻 All of my projects are available at <a href="https://umeryasir718.github.io/Portfolio/">My Portfolio</a>
               
