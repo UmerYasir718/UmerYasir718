@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Software Engineering**
   
-- 🔭 I’m currently working on **React**
+- 🔭 I’m currently working on **MERN Stack**
 
 - 📫 How to reach me <a href="mailto:umeryasir718@gmail.com/">from Mail</a>
   
