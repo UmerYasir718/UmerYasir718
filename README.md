@@ -10,7 +10,7 @@
 
 - 📫 How to reach me <a href="mailto:umeryasir718@gmail.com/">from Mail</a>
   
-- 👨‍💻 All of my projects are available at <a href="https://umeryasir718.github.io/Portfolio/">My Portfolio</a>
+- 👨‍💻 All of my projects are available at <a href="https://umeryasir.netlify.app/">My Portfolio</a>
               
 - ⚡ Fun fact **I am Cool Guy**
 
