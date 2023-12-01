@@ -1,6 +1,6 @@
 [![MasterHead](https://github.com/GitSquared/edex-ui/raw/master/media/screenshot_default.png)]
 <h1 align="center">Hi 👋, I'm Umer Yasir</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">A passionate Full Stack developer</h3>
 <img align="right" alt="Coding" width="400" src="https://c4.wallpaperflare.com/wallpaper/47/95/705/anonymus-hacker-computer-mask-wallpaper-preview.jpg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=its-umer&label=Profile%20views&color=0e75b6&style=flat" alt="its-umer" /> </p>
 
